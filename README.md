@@ -1,4 +1,14 @@
 # fancy-stats
 Some problems regarding statistics one may face as a data scientist.
 
-https://nbviewer.jupyter.org/github/alexfc14/fancy-stats/blob/master/Combining_statistics_by_gender_for_equal_opportunity_hiring.ipynb
+## Combining statistics by gender for equal opportunity hiring:
+
+  Want to be an equal opportunity employer but have data of, say some psychometric tests, only for gender-specific populations? ![equal_opportunity_employer](./pics/equal_opportunity_employer.jpg)
+
+Read if you want to know how you can combine it without asking for gender using percentiles
+
+![formula](./pics/formula.PNG)
+
+from the cumulative distributions
+
+![cdfs](./pics/cdfs.png)
